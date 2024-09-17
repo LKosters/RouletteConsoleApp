@@ -1,0 +1,14 @@
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/bin/Debug/net8.0/RouletteConsoleApp
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/bin/Debug/net8.0/RouletteConsoleApp.deps.json
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/bin/Debug/net8.0/RouletteConsoleApp.runtimeconfig.json
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/bin/Debug/net8.0/RouletteConsoleApp.dll
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/bin/Debug/net8.0/RouletteConsoleApp.pdb
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.AssemblyInfoInputs.cache
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.AssemblyInfo.cs
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.csproj.CoreCompileInputs.cache
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.dll
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/refint/RouletteConsoleApp.dll
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.pdb
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/RouletteConsoleApp.genruntimeconfig.cache
+/Users/laurenskosters/RiderProjects/RouletteConsoleApp/RouletteConsoleApp/obj/Debug/net8.0/ref/RouletteConsoleApp.dll
